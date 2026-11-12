@@ -10,4 +10,4 @@ print("--- TARJETA DE ALUMNO ---\n"
       "\nCiudad:", ciudad,
       "\nNota media:", nota_media,
       "\nMatriculada en FPROG:", matriculada_fprog,
-      "\n\n-------------------------")
+      "\n\n-"*2)
